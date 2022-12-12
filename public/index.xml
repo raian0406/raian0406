@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home</title>
+    <link>https://noeblassel.github.io/index.json</link>
+    <description>Recent content on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Noé Blassel 2022,</copyright><atom:link href="https://noeblassel.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://noeblassel.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://noeblassel.github.io/about/</guid>
+      <description>I am a PhD student in Mathematics at the CERMICS lab, and am a part of the MATHERIALS INRIA research project. My PhD project revolves around the numerical analysis of algorithms designed to accelerate the sampling of transitions from one metastable configurational domain to another, in molecular systems such as those typically encountered in biology. This PhD is funded by the EMC2 ERC Synergy grant, and my advisors are Tony Lelièvre and Gabriel Stoltz.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://noeblassel.github.io/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://noeblassel.github.io/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://noeblassel.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://noeblassel.github.io/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://noeblassel.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://noeblassel.github.io/teaching/</guid>
+      <description>I will be teaching a course on Probability to a group of first year students at École des Ponts (third year undergraduates), from November 2022-January 2023. A description of the course can be found here, and course material can be found on Aurélien Alfonsi&amp;rsquo;s homepage here.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+baseURL: https://noeblassel.github.io
+languageCode: en-us
+title: Home
+theme: PaperMod
+env: production
+copyright: Noé Blassel 2022,
+enableEmoji: true
+outputs:
+  home:
+    - JSON
+    - RSS
+    - HTML
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: ":us:"
+    profileMode:
+      enabled: true
+      title: "Noé Blassel"
+      subtitle: "PhD Student in Applied Mathematics / Computational Statistical Physics"
+      imageURL: /photo.jpg
+      imageWidth: 312
+      imageHeight: 335
+    menu:
+      main:
+        - name: About Me
+          url: /about/
+          weight: 1
+        - name: Research
+          url: /research/
+          weight: 2
+        - name: Teaching
+          url: /teaching/
+          weight: 3
+        - name: Posts
+          url: /posts/
+          weight: 4
+
+params:
+  displayFullLangName: true
+  name: Home
+  disableSpecial1stPost: true
+  ShowReadingTime: false
+  ShowToc: false
+  TocOpen: false
+  ShowBreadCrumbs: false
+  ShowPostNavLinks: true
+  comments: true
+  socialIcons:
+    - name: Github
+      url: https://github.com/noeblassel
+    - name: Workplace
+      url: https://cermics-lab.enpc.fr/
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/noe-blassel-758085146/
+    - name: StackOverflow
+      url: https://stackoverflow.com/users/9479826/noe-blassel
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      footnote: true
